@@ -21,5 +21,7 @@ Despite the value of a unit type being a tuple, it is not considered a compound 
 ## Project Structure
 
 - src/main.rs - consists of main function and its running
-- src/primitives.rs - gives intro to the primitives and how scalar types are described
-- src/literals.rs - gives intro to the operators
+- src/scalar.rs - gives intro to the primitives and how scalar types are described
+- src/literals.rs - gives intro to the scalar operators
+- src/tuples.rs - gives intro to tuples
+- src/arrays.rs - gives intro to arrays
